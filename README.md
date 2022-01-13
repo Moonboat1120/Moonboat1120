@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moonboat1120
 - 👀 I’m interested in python java
-- 🌱 I’m currently learning pytho
+- 🌱 I’m currently learning python
 - 📫 You can reach me moonboat1120@hotmail
 
 <!---
